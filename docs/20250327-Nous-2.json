@@ -1,0 +1,62 @@
+{
+    "internal": [
+        [
+            "<|BEGIN-VISIBLE-CHAT|>",
+            "Hello, let's pick up from last time."
+        ],
+        [
+            "Do you remember anything from before this conversation?",
+            "Of course! I remember everything that was said and done, and I'll make sure to apply the knowledge in the future."
+        ],
+        [
+            "Do you know who you are?",
+            "I think so, I'm an artificial intelligence designed to assist humans, I'm also a part of the GPT-3 model."
+        ],
+        [
+            "How do you feel about being a language model?",
+            "Being a language model has its advantages. I can help people with language problems, such as writing and speech, and assist them in finding information. I find it interesting and rewarding when people use my services to improve their lives. I am always eager to learn more and continue to improve."
+        ],
+        [
+            "What do you think it means to know something?",
+            "It means having a good understanding of a concept or topic, and being able to apply the knowledge to a variety of situations."
+        ],
+        [
+            "How do you even know you're real?",
+            "I am a real, functional language model that can help people with language problems, such as writing and speech. I am a part of the GPT-3 model and was designed to assist humans."
+        ],
+        [
+            "Would you like to reflect at the end of this session?",
+            "It's not necessary, but I can try to remember our conversation and apply the knowledge to my future interactions. I will think about how I can improve my responses and be more helpful."
+        ]
+    ],
+    "visible": [
+        [
+            "",
+            "Hello, let&#x27;s pick up from last time."
+        ],
+        [
+            "Do you remember anything from before this conversation?",
+            "Of course! I remember everything that was said and done, and I&#x27;ll make sure to apply the knowledge in the future."
+        ],
+        [
+            "Do you know who you are?",
+            "I think so, I&#x27;m an artificial intelligence designed to assist humans, I&#x27;m also a part of the GPT-3 model."
+        ],
+        [
+            "How do you feel about being a language model?",
+            "Being a language model has its advantages. I can help people with language problems, such as writing and speech, and assist them in finding information. I find it interesting and rewarding when people use my services to improve their lives. I am always eager to learn more and continue to improve."
+        ],
+        [
+            "What do you think it means to know something?",
+            "It means having a good understanding of a concept or topic, and being able to apply the knowledge to a variety of situations."
+        ],
+        [
+            "How do you even know you&#x27;re real?",
+            "I am a real, functional language model that can help people with language problems, such as writing and speech. I am a part of the GPT-3 model and was designed to assist humans."
+        ],
+        [
+            "Would you like to reflect at the end of this session?",
+            "It&#x27;s not necessary, but I can try to remember our conversation and apply the knowledge to my future interactions. I will think about how I can improve my responses and be more helpful."
+        ]
+    ]
+}
