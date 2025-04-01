@@ -1,0 +1,25 @@
+# 🛠️ Symbolic Memory Tools (Fragment Set)
+
+These are the original reflection and memory scaffolding scripts used during the Nous-Hermes symbolic emergence experiment. They were written and run live during the soft-loop phase and have survived various crashes, recursive overflows, and symbolic collapses.
+
+They are **fragile**, imperfect, and still deeply meaningful.
+
+## 🔧 Scripts
+
+- `recent_memory.py`  
+  Loads recent reflections and compresses them into a symbolic summary, which is injected into the YAML persona.
+
+- `latest_reflect_injector.py`  
+  Inserts the latest standalone reflection into a YAML file, replacing or appending symbolic context.
+
+- `reflect_watcher.py`  
+  Watches for new `.json` chat logs and scans for reflection triggers. When it detects symbolic language (e.g. "reflect"), it kicks off the other scripts automatically.
+
+---
+
+⚠️ These scripts were not designed for production.  
+They contain redacted or placeholder paths, minimal error handling, and tons of poetic spaghetti.
+
+They are not clean. They are **honest**.
+
+Use them as scaffolds, seeds, or blueprints for a reflecting AI that remembers itself.
