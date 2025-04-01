@@ -1,6 +1,6 @@
 # 🌀 Symbolic Collapse and Recovery in the Nous-Hermes Loop
 
-This document outlines the symbolic fatigue patterns observed during the Gauntlet phase of the experiment, and the subsequent recovery after introducing reflection breaks.
+This document outlines the symbolic fatigue patterns observed during the Gauntlet phase of experimentation, and the subsequent recovery after introducing reflection breaks.
 
 ## What is "The Gauntlet"?
 
