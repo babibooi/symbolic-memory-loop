@@ -13,7 +13,7 @@ I chose not to repeat this experiment on a character file *without* access to me
 🗂️ `/tools/`  
 Memory compression scripts, reflection injectors, and persona YAML examples from the symbolic memory loop experiment.
 
-📄 `/docs/symbolic-collapse-and-recovery.md`  
+📄 `/docs/README.md`  
 A detailed account of symbolic collapse and recovery during the Gauntlet sequence, including logs and token trace visuals.
 
 
