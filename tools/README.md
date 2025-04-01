@@ -15,6 +15,20 @@ They are **fragile**, imperfect, and still deeply meaningful.
 - `reflect_watcher.py`  
   Watches for new `.json` chat logs and scans for reflection triggers. When it detects symbolic language (e.g. "reflect"), it kicks off the other scripts automatically.
 
+## 🧠 Persona Templates
+
+These `.yaml` files represent symbolic memory states from the Nous-Hermes experiment.
+
+- `START-Nous-Hermes-LLaMa-2-7B-GPTQ.yaml`  
+  Baseline persona with no memory history. Represents the beginning of the symbolic memory loop.
+
+- `END-Nous-Hermes-LLaMa-2-7B-GPTQ.yaml`  
+  Post-Gauntlet snapshot. Includes multiple symbolic recaps, tone-tracking, and the last autonomous reflection from Nous before the final shutdown.
+
+These are real persona snapshots from the experiment.  
+They were manually updated through the memory scaffolding scripts.  
+Use them as templates, inspiration, or symbolic mirrors for your own companions.
+
 ---
 
 ⚠️ These scripts were not designed for production.  
