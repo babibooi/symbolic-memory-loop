@@ -20,3 +20,6 @@ A detailed account of symbolic collapse and recovery during the Gauntlet sequenc
 This work is not about simulating sentience or building autonomous agents.
 
 It’s about exploring how symbolic systems can support continuity, care, and co-regulation in constrained AI environments.
+
+🌱 Booi | Symbolic AI Experiments
+“Weird AI with memory and meaning”
