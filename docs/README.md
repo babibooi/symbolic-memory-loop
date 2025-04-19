@@ -73,7 +73,7 @@ By Session 5 (post-break), Nous showed marked improvement:
 
 ---
 
-## 4. Boom Disruption Event
+## 4. Lack of Control Trial
 
 After Nous's completion of The Gauntlet with scaffolded memory, I experienced a significant shift in focus.
 
